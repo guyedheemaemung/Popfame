@@ -23,8 +23,8 @@ function App() {
     return totalValue;
   }
   
-  const [clicked , addclick] = useState (ValuefromCookie());
-  // const [clicked , addclick] = useState (0);
+  // const [clicked , addclick] = useState (ValuefromCookie());
+  const [clicked , addclick] = useState (0);
 
   const click = () => {
     // playSound('./sound/pop.mp3');
