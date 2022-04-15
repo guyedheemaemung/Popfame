@@ -1,7 +1,9 @@
 import './App.scss';
 
-import notpop from './img/1.jpg';
-import pop from './img/2.jpg';
+// import notpop from './img/1.jpg';
+// import pop from './img/2.jpg';
+import notpop from './img/1.png';
+import pop from './img/2.png';
 import { useState } from 'react';
 
 import $ from "jquery";
